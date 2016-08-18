@@ -1,0 +1,6 @@
+imp.png,13,13,7
+GhostParticleSheet.png,4,4,4
+Rains.png,3,5,4
+bulletsprite.png,5,3,4
+Playerthrow.png,9,12,8
+CrossCollectable.png,9,10,4
